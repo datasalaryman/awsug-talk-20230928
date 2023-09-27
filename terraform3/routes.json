@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "example1.datasalaryman.com",
+        "Type": "CNAME",
+        "TTL": 1800,
+        "ResourceRecords": [
+            {
+                "Value": "example.com"
+            }
+        ]
+    },
+    {
+      "Name": "example2.datasalaryman.com",
+      "Type": "CNAME",
+      "TTL": 1800,
+      "ResourceRecords": [
+        {
+          "Value": "example.com"
+        }
+      ]
+    }
+]
