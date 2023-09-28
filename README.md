@@ -12,12 +12,17 @@
 - I'm not going to discuss the recent Hashicorp licensing change
 - I'm not going to discuss the differences and tradeoffs between Terraform and AWS CDK
 - I'm not going to make any recommendations for your own IaC setup in your org
+- I'm not going to talk about how to use Terraform to deploy infrastructure on other cloud services/platforms
 
-## Click ops
+## Big idea
+
+A software engineer's greatest tools are **modularity** and **copy + paste**
+
+## 1. Click ops
 
 Click AWS Console until you think you got what you want. 
 
-## Simple terraform config
+## 2. Simple terraform config
 
 Go to /terraform1 directory
 
@@ -29,7 +34,7 @@ terraform apply [-auto-approve]
 
 Documentation for S3 bucket arguments: https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#argument-reference
 
-## Terraform modules
+## 3. Terraform modules
 
 Go to /terraform2 directory
 
@@ -55,7 +60,7 @@ terraform plan
 terraform apply [-auto-approve]
 ```
 
-## Multiple resource, one config
+## 4. Multiple resource, one config
 
 Go to /terraform3 directory
 

@@ -18,5 +18,25 @@
           "Value": "example.com"
         }
       ]
+    },
+    {
+      "Name": "example3.datasalaryman.com",
+      "Type": "CNAME",
+      "TTL": 1800,
+      "ResourceRecords": [
+        {
+          "Value": "example.com"
+        }
+      ]
+    }, 
+    {
+      "Name": "example4.datasalaryman.com",
+      "Type": "CNAME",
+      "TTL": 1800,
+      "ResourceRecords": [
+        {
+          "Value": "example.com"
+        }
+      ]
     }
 ]
