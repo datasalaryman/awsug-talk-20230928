@@ -7,6 +7,12 @@
 - You have [installed terraform](https://developer.hashicorp.com/terraform/downloads).
 - You know how to work with commands on a terminal.
 
+## Disclaimers
+
+- I'm not going to discuss the recent Hashicorp licensing change
+- I'm not going to discuss the differences and tradeoffs between Terraform and AWS CDK
+- I'm not going to make any recommendations for your own IaC setup in your org
+
 ## Click ops
 
 Click AWS Console until you think you got what you want. 
