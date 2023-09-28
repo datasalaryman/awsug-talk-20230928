@@ -49,7 +49,7 @@ terraform plan
 terraform apply [-auto-approve]
 ```
 
-## Multiple resource config
+## Multiple resource, one config
 
 Go to /terraform3 directory
 
