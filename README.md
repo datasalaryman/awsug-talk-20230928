@@ -1,5 +1,12 @@
 # Three ways to setup your infrastructure
 
+## Prerequisites
+
+- You have a basic understanding of AWS and AWS services (we'll be using AWS S3 and AWS Route53 in this talk).
+- You know how to configure your AWS CLI v2 credentials, and profile on your PC.
+- You have [installed terraform](https://developer.hashicorp.com/terraform/downloads).
+- You know how to work with commands on a terminal.
+
 ## Click ops
 
 Click AWS Console until you think you got what you want. 
